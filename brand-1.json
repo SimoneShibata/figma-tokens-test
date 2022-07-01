@@ -1,0 +1,36 @@
+{
+  "component": {
+    "colors": {
+      "secondary": {
+        "ultralight": {
+          "value": "#FDE6E3",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "#FE918D",
+          "type": "color"
+        },
+        "light": {
+          "value": "#FFDA5A",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#E3262E",
+          "type": "color"
+        },
+        "dark": {
+          "value": "#A61D19",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "#67160D",
+          "type": "color"
+        }
+      },
+      "slider": {
+        "thumbColor": "$colors.secondary.medium",
+        "rangeColor": "$colors.secondary.darkest"
+      }
+    }
+  }
+}

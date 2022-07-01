@@ -1,0 +1,10 @@
+{
+  "component": {
+    "colors": {
+      "slider": {
+        "thumbColor": "$colors.secondary.medium",
+        "rangeColor": "$colors.secondary.darkest"
+      }
+    }
+  }
+}
